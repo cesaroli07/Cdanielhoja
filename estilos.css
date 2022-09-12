@@ -18,7 +18,7 @@ a {
 }
 
 .hero {
-	background-image: url(https://www.egeniq.nl/sites/default/files/2020-06/frontend_webdeveloper.jpg);
+	background-image: url(./img/bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	-moz-background-size: cover;
