@@ -9,8 +9,9 @@ html {
 }
 
 body {
-	background:#e5e5e5;
+	background:#423d3d;
 	font-family: 'Roboto', sans-serif;
+	color: white;
 }
 
 a {
@@ -18,7 +19,7 @@ a {
 }
 
 .hero {
-	background-image: url(https://img.freepik.com/foto-gratis/viejo-fondo-negro-textura-grunge-papel-tapiz-oscuro-pizarra-pizarra-pared-habitacion_1258-28312.jpg?w=1380&t=st=1663020176~exp=1663020776~hmac=29fd9baaf0aa1522f0713e9319faa4a17dbd71474a0610161c8fe78fcc67975f);
+	background-image: url(./img/bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	-moz-background-size: cover;
@@ -47,9 +48,9 @@ a {
 }
 
 nav {
-	background:#adb6c4;
+	background:#454b53;
 	height: 80px;
-	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+	box-shadow: rgb(0, 0, 0) 0px 8px 24px;
 	display: flex;
 	position: sticky;
 	top: 0;
@@ -64,13 +65,13 @@ nav a {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	color: #000;
+	color: rgb(255, 255, 255);
 	transition: .2s ease-in-out all;
 	font-weight: 500;
 }
 
 nav a:hover {
-	background: #94afda;
+	background: #5e8cd8;
 }
 
 nav .indicador {
