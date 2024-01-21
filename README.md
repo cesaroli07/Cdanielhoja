@@ -1,4 +1,4 @@
 # Cdanielhoja
-WEB en mitad con efectos en css
+PAGINA WEB NORMAL
 
 PAGE :  https://cesaroli07.github.io/Cdanielhoja/
